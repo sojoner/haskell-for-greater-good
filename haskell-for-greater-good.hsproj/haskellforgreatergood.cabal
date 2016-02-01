@@ -1,0 +1,13 @@
+name: haskellforgreatergood
+version: 1.0
+cabal-version: 1.6
+build-type: Simple
+license: AllRightsReserved
+stability: experimental
+category: excersise
+author: sojoner
+Executable haskellforgreatergood
+  main-is: Haskell_for_greater_good.hs
+  buildable: True
+  build-depends:
+      base -any

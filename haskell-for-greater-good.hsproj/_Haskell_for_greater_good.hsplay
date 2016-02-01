@@ -1,0 +1,15 @@
+-- Haskell Playground 1.0
+2 + 15
+49 * 100
+1200 - 200
+5/2
+(50 * 100) - 4999
+True && False
+succ 8
+min 1 2
+max 101 100
+succ 9 + max 5 4 + 1
+(succ 9) + (max 5 4) + 1
+
+
+doubleMe 9
